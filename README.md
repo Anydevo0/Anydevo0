@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Devarsh Chhatrala</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" alt="Hi, I'm Devarsh Chhatrala"  />
+</p>
+
 <h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anydevo0&label=Profile%20views&color=0e75b6&style=flat" alt="anydevo0" /> </p>
